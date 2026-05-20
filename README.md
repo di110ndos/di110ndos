@@ -1,6 +1,6 @@
 # Dillon Smith
 
-**Group Technical Lead at ICF Next· Co-founder of [TwofoldTech](https://www.twofold.tech) · 15 years in enterprise digital**
+**Group Technical Lead at ICF Next · Co-founder of [TwofoldTech](https://www.twofold.tech) · 15 years in enterprise digital**
 
 [![Personal Site](https://img.shields.io/badge/dillonsmith.dev-070707?style=for-the-badge&logo=vercel&logoColor=white)](https://dillonsmith.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillonsmith)
