@@ -1,6 +1,6 @@
 # Dillon Smith
 
-**Group Technical Lead · Co-founder of [TwofoldTech](https://www.twofold.tech) · 15 years in enterprise digital**
+**Group Technical Lead at ICF Next· Co-founder of [TwofoldTech](https://www.twofold.tech) · 15 years in enterprise digital**
 
 [![Personal Site](https://img.shields.io/badge/dillonsmith.dev-070707?style=for-the-badge&logo=vercel&logoColor=white)](https://dillonsmith.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillonsmith)
@@ -92,7 +92,7 @@ Fifteen years architecting enterprise digital platforms across government, healt
 2011 — 2014      Senior Developer & Architect @ Rounded Cube
 ```
 
-Selected clients across that span: California State Lottery · Institute of Defense Analysis · General Mills · HB Fuller · Dominion Energy · University of Kansas Hospital · ACFE · MCFA · MHC Trucking · Freightquote · Denton County · St. Louis Public Library.
+Selected clients across that span: California State Lottery · Institute of Defense Analysis · General Mills · HB Fuller · Dominion Energy · University of Kansas Hospital · ACFE · MCFA · MHC Trucking · Freightquote · Denton County · St. Louis Public Library · Seaworld.
 
 ---
 
