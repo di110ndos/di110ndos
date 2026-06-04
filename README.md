@@ -3,7 +3,7 @@
 **Group Technical Lead at ICF Next · Co-founder of [TwofoldTech](https://www.twofold.tech) · 15 years in enterprise digital**
 
 [![Personal Site](https://img.shields.io/badge/dillonsmith.dev-070707?style=for-the-badge&logo=vercel&logoColor=white)](https://dillonsmith.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillonsmith)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dillonosmith)
 [![TwofoldTech](https://img.shields.io/badge/TwofoldTech-FF5722?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.twofold.tech/)
 
 Fifteen years architecting enterprise digital platforms across government, healthcare, finance, and Fortune-500 consumer brands. Now applying that production-engineering discipline to AI-native software through TwofoldTech.
