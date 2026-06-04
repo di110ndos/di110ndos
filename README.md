@@ -13,6 +13,7 @@ Fifteen years architecting enterprise digital platforms across government, healt
 ## Now building
 
 - **[TwoOps](https://twoops.ai/)** — AI-native infrastructure operations platform for Azure (auto-discovery, health scoring, Claude-driven root-cause analysis, pgvector-backed semantic search)
+- **Switchback** — motorcycle navigation & community platform with a proprietary scenic-routing algorithm (corner density + elevation); Flutter/Firebase mobile app, Next.js + Supabase/PostGIS web
 - **PI Strategist** — Claude-powered Program Increment planning analysis for Agile Release Trains
 - **Pulse** — browser-only triage for Azure Application Insights logs with five AI analysis modes
 - **LoadBridge** — load-test orchestration for JMeter / k6 with deep Azure Load Testing integration
@@ -38,6 +39,8 @@ Fifteen years architecting enterprise digital platforms across government, healt
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Cloud & Infrastructure
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -47,12 +50,16 @@ Fifteen years architecting enterprise digital platforms across government, healt
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 ### Data & Search
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 ![Coveo](https://img.shields.io/badge/Coveo-FF6E42?style=flat-square&logoColor=white)
 ![Lucene](https://img.shields.io/badge/Apache_Lucene-D9411E?style=flat-square&logo=apachesolr&logoColor=white)
 
