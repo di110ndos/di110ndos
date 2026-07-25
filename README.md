@@ -12,8 +12,8 @@ Fifteen years architecting enterprise digital platforms across government, healt
 
 ## Now building
 
-- **[TwoOps](https://twoops.ai/)** — AI-native infrastructure operations platform for Azure (auto-discovery, health scoring, Claude-driven root-cause analysis, pgvector-backed semantic search)
-- **Switchback** — motorcycle navigation & community platform with a proprietary scenic-routing algorithm (corner density + elevation); Flutter/Firebase mobile app, Next.js + Supabase/PostGIS web
+- **TwoOps** — AI-native infrastructure operations platform for Azure (auto-discovery, health scoring, Claude-driven root-cause analysis, pgvector-backed semantic search)
+- **[Switchback Moto](https://www.switchback-moto.com/)** — motorcycle navigation & community platform with a proprietary scenic-routing algorithm (corner density + elevation); Flutter/Firebase mobile app, Next.js + Supabase/PostGIS web
 - **PI Strategist** — Claude-powered Program Increment planning analysis for Agile Release Trains
 - **Pulse** — browser-only triage for Azure Application Insights logs with five AI analysis modes
 - **LoadBridge** — load-test orchestration for JMeter / k6 with deep Azure Load Testing integration
